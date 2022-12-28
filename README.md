@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **React,Node**
 
-- 💬 Ask me about **JavaScript,CSS,HTML**
+- 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 
 - 📫 How to reach me **uzairans532@gmail.com**
 
