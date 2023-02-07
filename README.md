@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 
-- 📫 How to reach me uzairans532@gmail.com
+<!-- - 📫 How to reach me uzairans532@gmail.com -->
 
 - ⚡ Fun fact **I am funny**
 
