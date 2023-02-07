@@ -23,10 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I am funny**
 
-
-  
-  
-  <a href="https://uzairansari11.github.io/" target="blank"> <h3>Porifolio</h3></a>
+- 👨‍🚀   https://uzairansari11.github.io/
   
 
 <h3 align="left">Connect with me:</h3>
