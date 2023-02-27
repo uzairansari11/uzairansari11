@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I am funny**
 
-- 👨‍🚀   https://uzairansari11.github.io/
+- 👨‍🚀  My portfolio https://uzairansari11.github.io/
+
   
 
 <h3 align="left">Connect with me:</h3>
