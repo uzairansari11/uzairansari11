@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I am funny**
 
-- 👨‍🚀  - My portfolio  https://uzairansari11.github.io/
+- 👨‍🚀  - My portfolio a[href*='uzairansari11.github.io/']
 
   
 
