@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/uzairansari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="uzairansari11" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/uzair-ansari-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair-ansari-" height="30" width="40" /></a>
 <a href="https://codesandbox.com/uzairansari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uzairansari11" height="30" width="40" /></a>
 <a href="https://instagram.com/____uzairrrr____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____uzairrrr____" height="30" width="40" /></a>
