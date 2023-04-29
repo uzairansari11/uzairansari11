@@ -11,13 +11,12 @@
  <br>
   
   <p align="center" color:"red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My Name is Uzair Ansari 🏽; I am a Full-Stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My Name is Uzair Ansari 🏽; I am a Full-Stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=28&pause=1000">
       </p> 
 
 
-  <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 320px></picture>
+<picture> <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width = 320px></picture>
 
 <br>
 
