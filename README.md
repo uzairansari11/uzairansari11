@@ -3,9 +3,14 @@
 
 
   <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Uzair Ansari</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
   
-
+  <p>A Passionate aspiring Full Stack Web Developer skilled
+in MERN Stack. Is proficient in developing websites
+using HTML, CSS, JavaScript, React, Redux, and
+ChakraUI. Looking forward to working in an
+organization that can challenge his abilities as a web
+developer.</p>
   
 
  <br>
