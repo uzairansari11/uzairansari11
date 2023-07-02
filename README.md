@@ -108,6 +108,11 @@ developer.</p>
 ## 📂 Projects :
 
 <p>
+<a href="https://github.com/uzairansari11/Clothify.git">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=Clothify
+&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+</a>
+ 
 <a href="https://github.com/uzairansari11/native-order-609">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=native-order-609&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
