@@ -1,13 +1,10 @@
 
 <div align="left">
-
-
- <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Uzair Ansari</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Uzair Ansari</h1>
   
-  <p>A Passionate aspiring Full Stack Web Developer skilled
+<p>A Passionate aspiring Full Stack Web Developer skilled
 in MERN Stack. Is proficient in developing websites
-using HTML, CSS, JavaScript, React, Redux, and
+using HTML, CSS, JavaScript, React, Nodejs, Express js, MongoDB, Talwind CSS, Typescript, Nextjs,  Redux, and
 ChakraUI. Looking forward to working in an
 organization that can challenge his abilities as a web
 developer.</p>
@@ -16,7 +13,7 @@ developer.</p>
  <br>
   
   <p align="center" color:"red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My Name is Uzair Ansari 🏽; I am a Full-Stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=28&pause=1000">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Uzair Ansari ; I am a Full-Stack%20Web%20Developer 💻; Interested in Coding ;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color="teal"&vCenter=true&size=28&pause=1000">
       </p> 
 
 
@@ -42,7 +39,7 @@ developer.</p>
 - <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **uzairans532@gmail.com**
 - <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My portfolio **<a>https://uzairansari11.github.io/</a>**
 
-## Connect with me:
+## Connect With Me
 
 <p align="left">
  <a href="https://codesandbox.io/u/uzairansari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uzair" height="30" width="40" /></a>
@@ -51,13 +48,13 @@ developer.</p>
 
 </p>
 
-## 🏆 Trophies :
+## 🏆 Trophies 
 
 ![](https://github-profile-trophy.vercel.app/?username=uzairansari11&theme=monokai&no-frame=true&no-bg=false&margin-w=4)</picture>
 
 
 
-## 🔣 Languages and Tools:
+## 🔣 Languages and Tools
 
 <p align="left">
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
@@ -77,8 +74,11 @@ developer.</p>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge"></a>
 
-## 🔥 Streak stats :
+## 🔥GitHub Stats & Streak  
 
 <div align="center">
   <a href="https://github.com/uzairansari11/github-readme-streak-stats">
@@ -90,22 +90,14 @@ developer.</p>
 
 </div>
 
-## 📈 GitHub Stats :
 
-<p>
-
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge"></a>
-
-</p>
 
 <p align="center">
 <a href="https://github.com/uzairansari11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairansari11&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
 
 </p>
 
-## 📂 Projects :
+## 📂 Projects 
 
 <p>
 <a href="https://github.com/uzairansari11/Clothify.git">
