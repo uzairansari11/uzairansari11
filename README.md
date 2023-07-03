@@ -4,7 +4,7 @@
   
 <p>A Passionate aspiring Full Stack Web Developer skilled
 in MERN Stack. Is proficient in developing websites
-using HTML, CSS, JavaScript, React, Nodejs, Express js, MongoDB, Talwind CSS, Typescript, Nextjs,  Redux, and
+using HTML, CSS, JavaScript, React, Nodejs, Express js, MongoDB, Tailwind CSS, Typescript, Nextjs,  Redux, and
 ChakraUI. Looking forward to working in an
 organization that can challenge his abilities as a web
 developer.</p>
@@ -12,8 +12,8 @@ developer.</p>
 
  <br>
   
-  <p align="center" color:"red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Uzair Ansari ; I am a Full-Stack%20Web%20Developer 💻; Interested in Coding ;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color="teal"&vCenter=true&size=28&pause=1000">
+  <p align="center" color: "red"> 
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Uzair Ansari; I am a Full-Stack%20Web%20Developer 💻; Interested in Coding ;Curious%20to%20learn%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color="teal"&vCenter=true&size=28&pause=1000">
       </p> 
 
 
@@ -97,35 +97,8 @@ developer.</p>
 
 </p>
 
-## 📂 Projects 
 
-<p>
-<a href="https://github.com/uzairansari11/Clothify.git">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=Clothify&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
- 
-<a href="https://github.com/uzairansari11/native-order-609">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=native-order-609&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-  
-<a href="https://github.com/uzairansari11/eminent-tin-5074">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=eminent-tin-5074&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-  
-<a href="https://github.com/uzairansari11/spicy-nerve-9354">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=spicy-nerve-9354&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-  
-<a href="https://github.com/uzairansari11/-wanting-advertisement-5951">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=-wanting-advertisement-5951&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-  
-</p>
 
-<p align="center">
-<a href="https://github.com/uzairansari11"><span>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzairansari11&theme=dracula" />
-</span></a>
   
 </p>
