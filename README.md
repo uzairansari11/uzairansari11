@@ -9,7 +9,8 @@ Chakra UI. Skilled in web and mobile
 development, with React Native
 expertise. Seeking challenges and
 opportunities to excel in a dynamic
-organization.</p>
+organization.
+</p>
 
  <br>
   
