@@ -1,94 +1,174 @@
-<div align="left">
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Uzair Ansari</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="300">
+</div>
+<div align="center">
   
-<p>A highly motivated Full Stack Web
-Developer experienced in the MERN
-Stack, proficient in HTML, CSS, JavaScript,
-React, Redux, Node.js, Express.js, and
-Chakra UI. Skilled in web and mobile
-development, with React Native
-expertise. Seeking challenges and
-opportunities to excel in a dynamic
-organization.
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hi there, I'm Uzair Ansari!
 
- <br>
-  
-  <p align="center" color: "red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Name is Uzair Ansari; I am a Full-Stack%20Web%20Developer 💻; Interested in Coding ;Curious%20to%20learn%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color="teal"&vCenter=true&size=28&pause=1000">
-      </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;React+Native+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" /></a>
 
-<picture> <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width = 450px></picture>
+<div align="center">
+  <a href="https://www.linkedin.com/in/uzairansari11/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:uzairans532@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://uzairansari11.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/____uzairrrr____/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+[![](https://visitcount.itsvg.in/api?id=uzairansari11&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
+</div>
 
 <br>
 
-<p align="left">
-
-  <a href="https://github.com/uzairansari11?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/uzairansari11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/uzairansari11?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/uzairansari11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <img src="https://komarev.com/ghpvc/?username=uzairansari11&label=Profile%20views&color=8e24aa&style=for-the-badge" alt="suhailkhan" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350" />
 </div>
 
-- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m a **Full Stack Web-Developer**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/uzairansari11/">**Uzair Ansari**</a>
-- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **uzairans532@gmail.com**
-- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My portfolio **<a>https://uzairansari11.github.io/</a>**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## Connect With Me
-
-<p align="left">
- <a href="https://codesandbox.io/u/uzairansari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uzair" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/uzairansari11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair" height="30" width="40" /></a>
-<a href="https://www.instagram.com/____uzairrrr____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzair" height="30" width="40" /></a>
-
+<p>
+  A highly motivated Full Stack Web Developer experienced in the MERN Stack, proficient in HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and Chakra UI. Skilled in web and mobile development, with React Native expertise. Seeking challenges and opportunities to excel in a dynamic organization.
 </p>
 
-## 🏆 Trophies
+-  I'm currently working on **Full Stack Web Applications**
+-  I'm currently learning **Docker & PM2**
+-  How to reach me: **uzairans532@gmail.com**
+-  Check out my Portfolio: **[uzairansari11.github.io](https://uzairansari11.github.io/)**
+-  Fun fact: **I can debug code faster than I can solve life problems**
 
-![](https://github-profile-trophy.vercel.app/?username=uzairansari11&theme=monokai&no-frame=true&no-bg=false&margin-w=4)</picture>
+<br>
 
-## 🔣 Languages and Tools
-
-<p align="left">
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
-<a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next.js-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
-<a href="#"><img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="Express JS" src="https://img.shields.io/badge/Express.js-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-<a href="#"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge"></a>
-
-## 🔥GitHub Stats & Streak
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42"> Languages and Tools
 
 <div align="center">
-  <a href="https://github.com/uzairansari11/github-readme-streak-stats">
-  <img align="center" alt="uzair streak" src="https://streak-stats.demolab.com/?user=uzairansari11&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzairansari11&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="uzairansari11" />
-  </a>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br>
+  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</details>
+
+<details open>
+<summary><b>UI Frameworks</b></summary>
+<br>
+  
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Tools & Deployment</b></summary>
+<br>
+  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
 
 </div>
 
-<p align="center">
-<a href="https://github.com/uzairansari11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairansari11&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
 
+<br>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uzairansari11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairansari11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uzairansari11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="495" />
+</div>
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> Trophy Showcase
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uzairansari11&theme=discord&column=7&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
 </p>
+
+## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Github Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Uzair's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=uzairansari11&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
+</div>
+
+<h2 align="center">⚡ Recent GitHub Activity</h2>
+<!--START_SECTION:activity-->
+1. 🎉 Merged Pull Request
+2. 💪 Opened a new repository
+3. ⭐ Starred several React repositories
+4. 🔄 Forked an open-source project
+5. 👀 Reviewed a pull request
+<!--END_SECTION:activity-->
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+</div>
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
