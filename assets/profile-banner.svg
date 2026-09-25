@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Uzair Ansari — frontend engineer and full-stack builder</title>
+  <desc id="desc">A dark indigo profile banner with a small interface illustration and React, Next.js, and TypeScript labels.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="1" y2="0">
+      <stop offset="0" stop-color="#0b1025"/>
+      <stop offset=".56" stop-color="#121d42"/>
+      <stop offset="1" stop-color="#24376c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#66e3e0"/>
+      <stop offset="1" stop-color="#a694ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b4c6fb" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="340" fill="url(#background)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <circle cx="1009" cy="42" r="250" fill="#5d6ee4" opacity=".13"/>
+    <circle cx="1158" cy="320" r="260" fill="#24d7d2" opacity=".08"/>
+
+    <rect x="66" y="44" width="297" height="34" rx="17" fill="#8ddbd8" fill-opacity=".12" stroke="#8ddbd8" stroke-opacity=".4"/>
+    <circle cx="87" cy="61" r="5" fill="#76e1db"/>
+    <text x="102" y="66" fill="#c6f5f2" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">FRONTEND ENGINEER  /  BUILDER</text>
+
+    <text x="66" y="168" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Uzair Ansari</text>
+    <rect x="68" y="187" width="55" height="4" rx="2" fill="url(#accent)"/>
+    <text x="66" y="231" fill="#d8e4ff" font-family="Arial, Helvetica, sans-serif" font-size="23">Thoughtful interfaces. Reliable systems.</text>
+
+    <rect x="66" y="266" width="90" height="32" rx="9" fill="#ecf8ff" fill-opacity=".09" stroke="#ecf8ff" stroke-opacity=".17"/>
+    <text x="83" y="287" fill="#edf5ff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">React</text>
+    <rect x="166" y="266" width="95" height="32" rx="9" fill="#ecf8ff" fill-opacity=".09" stroke="#ecf8ff" stroke-opacity=".17"/>
+    <text x="182" y="287" fill="#edf5ff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">Next.js</text>
+    <rect x="271" y="266" width="116" height="32" rx="9" fill="#ecf8ff" fill-opacity=".09" stroke="#ecf8ff" stroke-opacity=".17"/>
+    <text x="287" y="287" fill="#edf5ff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">TypeScript</text>
+
+    <g transform="translate(799 56)">
+      <rect x="0" y="0" width="330" height="225" rx="18" fill="#101a3b" stroke="#9caef4" stroke-opacity=".38" stroke-width="1.5"/>
+      <path d="M0 18Q0 0 18 0H312Q330 0 330 18V42H0Z" fill="#1c2b58"/>
+      <circle cx="20" cy="21" r="4" fill="#fa8eab"/>
+      <circle cx="35" cy="21" r="4" fill="#f1cf82"/>
+      <circle cx="50" cy="21" r="4" fill="#7be3d7"/>
+      <rect x="75" y="17" width="105" height="8" rx="4" fill="#a6b7ef" opacity=".35"/>
+      <rect x="20" y="61" width="113" height="66" rx="11" fill="#223460"/>
+      <path d="M34 106L54 87L70 96L88 74L118 83" fill="none" stroke="#73dedb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="149" y="61" width="161" height="66" rx="11" fill="#223460"/>
+      <rect x="165" y="78" width="69" height="7" rx="3.5" fill="#c1c9fa" opacity=".62"/>
+      <rect x="165" y="95" width="119" height="6" rx="3" fill="#8ba0db" opacity=".4"/>
+      <rect x="165" y="106" width="86" height="6" rx="3" fill="#8ba0db" opacity=".4"/>
+      <rect x="20" y="144" width="290" height="61" rx="11" fill="#223460"/>
+      <circle cx="43" cy="174" r="12" fill="#70dcd8" opacity=".22"/>
+      <path d="M38 174L42 178L49 169" fill="none" stroke="#76e1db" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="68" y="164" width="116" height="7" rx="3.5" fill="#d2d9ff" opacity=".72"/>
+      <rect x="68" y="178" width="173" height="6" rx="3" fill="#8ba0db" opacity=".43"/>
+      <rect x="264" y="166" width="27" height="17" rx="8.5" fill="#64d9cf" opacity=".85"/>
+    </g>
+    <rect x="742" y="218" width="137" height="57" rx="13" fill="#2a3a6a" stroke="#7ce0df" stroke-opacity=".5"/>
+    <text x="762" y="242" fill="#e6f4ff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">BUILDING</text>
+    <text x="762" y="260" fill="#83e7df" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">FOR IMPACT ↗</text>
+  </g>
+</svg>
