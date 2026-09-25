@@ -16,25 +16,29 @@ Hi, I'm **Uzair** — a frontend-focused software engineer in Mumbai with around
 | :---: | :---: | :---: |
 | Production applications built from scratch | Users on a calling platform | Junior developers mentored |
 
-**Explore:** [Featured work](#featured-work) · [Public code](#public-code) · [Toolkit](#toolkit) · [Connect](#lets-connect)
+**Explore:** [Professional projects](#professional-projects) · [What I'm building now](#what-im-building-now) · [Public code](#public-code) · [Toolkit](#toolkit)
 
-## Featured work
+## Professional projects
 
-### 🔎 DocuMind — answers that point to the source
+*TalkWisely Platforms · Software Engineer · 2024–2026*
 
-**Personal project · AI and document workflows**
+### 💸 AI-powered finance platform — less time on repetitive analysis
 
-I'm building a document assistant that can answer questions about uploaded PDFs with **source citations**. The interesting part is everything between a question and an answer: query rewriting, semantic retrieval, reranking, context selection, and streaming the result to the interface. I also built a background pipeline that turns PDFs into AI-generated podcasts.
+I built the frontend for financial analysis, OCR-based invoice processing, and forecasting workflows. The result was **70% less analyst effort** and **80% faster invoice verification**.
 
-`Upload → extract → embed → retrieve → rerank → cite and stream`
+The UI later needed more flexibility and better behavior across browsers. I migrated it from **HeroUI to shadcn/ui**, module by module, while preserving the existing state, business logic, and API integrations.
 
-**Built with:** React, Node.js, Express, PostgreSQL, Prisma, Qdrant, Redis, BullMQ, AWS S3, and OpenAI APIs.
+### 🧩 Custom ERP-style CRM — faster, more reliable workflows
 
-### 📞 Browser calling — getting the details right
+I architected the frontend for a **10+ module** CRM with role-based dashboards and workflows. It covered quotations, inventory, and procurement. Automating the quotation flow reduced **quote creation time by 97%** and **errors by 90%**.
 
-**Production platform · 1,500+ users**
+The work involved translating complicated business rules into forms and interfaces that teams could use day to day.
 
-I built a browser-based calling experience with **React, SIP.js, and WebRTC**. One tricky issue was overlapping audio when multiple call sessions were involved. I moved audio handling to individual sessions and cleaned up resources when calls ended, making the calling experience more dependable.
+### 📞 VoIP calling platform — real-time work at scale
+
+I built a low-latency browser calling experience with **React and SIP.js** for **1,500+ users**. Real-time dashboards and call management features reduced call handling time by **35%**.
+
+One tricky issue was overlapping audio across multiple call sessions. I moved audio handling to individual sessions and cleaned up resources when calls ended, making the experience more dependable.
 
 <details>
 <summary>What this taught me</summary>
@@ -43,17 +47,37 @@ A call isn't finished just because its UI disappears. Real-time interfaces need 
 
 </details>
 
-### 💸 AI finance — changing the UI without losing the product
+### 📋 Internal project management — replacing a paid tool
 
-**Enterprise application · React and Next.js**
+I drove frontend development for a project management and time-tracking application covering tasks, hours, and performance. It replaced a paid SaaS solution. A shared component library made future feature delivery **40% faster**.
 
-I worked on AI-assisted financial workflows, streaming responses, and invoice processing. When the first component library limited customization and behaved inconsistently across browsers, I migrated the interface from **HeroUI to shadcn/ui** module by module while retaining the existing logic, state, and API integrations.
+**Earlier work:** At **Fastor7 Technology**, I built 5+ Next.js dashboard modules for orders, inventory, and seller analytics across 5+ internal teams, improving performance by 25%. At **Clayfin Technologies**, I built booking and leave-management workflows with multi-level approvals for 100+ employees.
 
-I also built a **custom CRM** with quotation workflows and an **internal project-management app** for tasks, hours, and performance tracking.
+## What I'm building now
+
+### 🔎 DocuMind — answers that point to the source
+
+I'm building a document assistant that answers questions about uploaded PDFs with **source citations**. The interesting part is everything between a question and an answer: query rewriting, semantic retrieval, reranking, context selection, and streaming the result to the interface. I also built a background pipeline that turns PDFs into AI-generated podcasts.
+
+`Upload → extract → embed → retrieve → rerank → cite and stream`
+
+**Built with:** React, Node.js, Express, PostgreSQL, Prisma, Qdrant, Redis, BullMQ, AWS S3, and OpenAI APIs.
 
 ## Public code
 
 Some of my product work is private, but these repositories show parts of how I build:
+
+### 👕 Clothify — storefront, API, and admin dashboard
+
+I built a full-stack shopping application with product discovery, cart, wishlist, checkout, and order management. The admin area handles products and orders with role-based access. It's a good place to see my **React and Redux frontend** alongside an **Express and MongoDB API**. [Explore the code →](https://github.com/uzairansari11/Clothify)
+
+<p align="center">
+  <a href="https://github.com/uzairansari11/Clothify">
+    <img src="https://raw.githubusercontent.com/uzairansari11/Clothify/main/Frontend/clothify/screenshots/14-admin-dashboard.png" alt="Clothify admin dashboard showing store metrics and management navigation" width="750" />
+  </a>
+</p>
+
+**More projects:**
 
 | Start here | What you'll find | Stack |
 | --- | --- | --- |
