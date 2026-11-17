@@ -14,7 +14,11 @@
   <a href="mailto:uzairans532@gmail.com"><strong>Email me</strong></a>
 </p>
 
-I’m Uzair, a software engineer based in Mumbai. I’ve built **4 production applications from scratch**, shipped a browser calling platform used by **1,500+ users**, and mentored **3 junior developers**. My current enterprise work includes conversational interfaces, API integrations, and onboarding workflows.
+I’m Uzair, a software engineer based in Mumbai. I build React and Next.js applications for enterprise workflows, real-time communication, and AI-powered products.
+
+| **4** | **1,500+** | **97%** |
+| :---: | :---: | :---: |
+| Production apps built from scratch | Users on the browser calling platform | Reduction in quote creation time |
 
 ## Featured repositories
 
@@ -23,6 +27,12 @@ I’m Uzair, a software engineer based in Mumbai. I’ve built **4 production ap
 | **[Clothify](https://github.com/uzairansari11/Clothify)** | React and Redux storefront with checkout, order management, and a role-based admin dashboard. The Express and MongoDB API shows how the frontend connects to the backend. |
 | **[Product Catalog](https://github.com/uzairansari11/simfoni_assignment)** | A focused React and TypeScript example with search, filtering, sorting, and responsive product pages. |
 | **[ChatApp](https://github.com/uzairansari11/ChatApp)** | Real-time messaging with React and Socket.IO, backed by Express and MongoDB. |
+
+### Clothify in action
+
+[![Clothify admin dashboard showing store metrics and order management](https://github.com/uzairansari11/Clothify/raw/main/Frontend/clothify/screenshots/14-admin-dashboard.png)](https://github.com/uzairansari11/Clothify#screenshots)
+
+[See more Clothify screenshots →](https://github.com/uzairansari11/Clothify#screenshots)
 
 ## Work experience
 
@@ -47,6 +57,13 @@ I led frontend development across four production applications, including an ERP
 ## Currently building
 
 **DocuMind** is a PDF assistant that retrieves and reranks relevant passages, then streams answers with source citations. It also uses background jobs to turn PDFs into podcasts. The stack includes React, Node.js, PostgreSQL, Qdrant, Redis, BullMQ, and OpenAI APIs.
+ 
+```mermaid
+flowchart TD
+    A["Upload a PDF"] --> B["Extract and index passages"]
+    B --> C["Retrieve and rerank relevant passages"]
+    C --> D["Stream an answer with citations"]
+```
 
 ## Toolkit
 
