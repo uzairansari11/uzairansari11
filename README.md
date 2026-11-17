@@ -24,12 +24,25 @@ I’m Uzair, a software engineer based in Mumbai. I’ve built **4 production ap
 | **[Product Catalog](https://github.com/uzairansari11/simfoni_assignment)** | A focused React and TypeScript example with search, filtering, sorting, and responsive product pages. |
 | **[ChatApp](https://github.com/uzairansari11/ChatApp)** | Real-time messaging with React and Socket.IO, backed by Express and MongoDB. |
 
-## Production work
+## Work experience
 
-- **ERP-style CRM.** Architected the frontend for 10+ modules spanning quotations, inventory, and procurement. Quotation automation cut creation time by **97%** and errors by **90%**.
-- **AI finance platform.** Built the UI for financial analysis, forecasting, and OCR invoice processing. The platform reduced analyst effort by **70%** and sped up invoice verification by **80%**. Migrated the UI from HeroUI to shadcn/ui while preserving existing business logic and API integrations.
-- **Browser-based VoIP platform.** Built React and SIP.js calling interfaces for **1,500+ users**. Real-time dashboards and call controls reduced handling time by **35%**. Isolated audio by call session to fix overlapping playback.
-- **Project management and time tracking.** Led frontend development for an internal tool that replaced a paid SaaS product. A shared component library made feature delivery **40% faster**.
+### Newtuple Technologies · Software Engineer, GenAI
+
+I build enterprise demos and proofs of concept that connect conversational interfaces to business workflows. On the Solutions Team, I develop chat interfaces, integrate chat APIs, and prototype SAP and inriver integrations for product, supplier, and client onboarding.
+
+### TalkWisely Platforms · Software Engineer
+
+I led frontend development across four production applications, including an ERP-style CRM, an AI finance platform, a browser calling platform, and an internal project management tool.
+
+- **ERP-style CRM.** Architected the frontend for 10+ modules covering quotations, inventory, and procurement. Quotation automation cut creation time by **97%** and errors by **90%**.
+- **AI finance platform.** Built the UI for financial analysis, forecasting, and OCR invoice processing. The platform reduced analyst effort by **70%** and sped up invoice verification by **80%**. I also migrated the UI from HeroUI to shadcn/ui while preserving business logic and API integrations.
+- **Browser calling platform.** Built React and SIP.js calling interfaces used by **1,500+ people**. Real-time dashboards and call controls reduced handling time by **35%**. I isolated audio by call session to fix overlapping playback.
+- **Project management and time tracking.** Led frontend development for an internal tool that replaced a paid SaaS product. A shared component library helped the team deliver features **40% faster**.
+
+### Earlier frontend work
+
+- **Fastor7 Technology.** Built 5+ Next.js dashboard modules for orders, inventory, and seller analytics used by five internal teams.
+- **Clayfin Technologies.** Built booking and leave-management workflows with multi-level approvals for **100+ employees**.
 
 ## Currently building
 
